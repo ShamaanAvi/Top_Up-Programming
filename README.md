@@ -33,3 +33,16 @@ The application uses a SQL Server database with the following tables:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/Aurora-Skin-Care-System.git
+   
+2. **Database Setup**:
+
+-Create a SQL Server database and run the provided scripts to create tables and populate initial data.
+
+3. **Configure Connection String**:
+
+-Update connectionString in each form (fLogin, fMakeApp, etc.) to connect to your SQL Server instance.
+
+4. **Run the Application**:
+
+-Open the project in Visual Studio.
+-Build and run the application to access the Aurora Skin Care System.
