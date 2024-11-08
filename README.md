@@ -32,7 +32,7 @@ The application uses a SQL Server database with the following tables:
 ## Setup and Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/Aurora-Skin-Care-System.git
+   git clone https://github.com/ShamaanAvi/Top_Up-Programming.git
    
 2. **Database Setup**:
 
